@@ -2,12 +2,9 @@
 
 Shuai Lu (陆帅)
 
-PHD
-
-Computing & Intelligence
-
-Beijing Institute of Technology (BIT)
-
+PHD \
+Computing & Intelligence \
+Beijing Institute of Technology (BIT) \
 Email: lushuaie@163.com
 
 <!-- 
