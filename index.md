@@ -1,4 +1,12 @@
 ## Welcome to LuShuai Pages
+
+Shuai Lu (陆帅)
+PHD
+Computing & Intelligence
+Beijing Institute of Technology (BIT)
+
+Email: lushuaie@163.com
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/LuShuaie/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
