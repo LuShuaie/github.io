@@ -7,7 +7,7 @@ Computing & Intelligence \
 Beijing Institute of Technology (BIT) \
 Email: lushuaie@163.com
 
-[scholar](../../../OpenCV/blob/main/README.md)
+[scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md)
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/LuShuaie/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
