@@ -8,7 +8,7 @@ Beijing Institute of Technology (BIT) \
 Email: lushuaie@163.com
 
 ## scholar
-[scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) \t
+[scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md)
 
 <!-- 
