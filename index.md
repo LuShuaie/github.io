@@ -8,9 +8,9 @@ Beijing Institute of Technology (BIT) \
 Email: lushuaie@163.com
 
 ## scholar
-[scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
-[read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md)
-
+[Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
+[Read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md) ||
+[Paper daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Paper_daily/README.md)
 <!-- 
 You can use the [editor on GitHub](https://github.com/LuShuaie/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
