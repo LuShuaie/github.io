@@ -3,9 +3,8 @@
 Shuai Lu (陆帅)
 
 PHD \
-Computing & Intelligence \
-Beijing Institute of Technology (BIT) \
-Email: lushuaie@163.com
+School of Medical Technology, Beijing Institute of Technology, Beijing 100081, China \
+**Email: lushuaie@163.com**
 
 ## scholar
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
