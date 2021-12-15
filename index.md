@@ -10,7 +10,9 @@ Email: lushuaie@163.com
 ## scholar
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [Read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md) ||
-[Paper daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Paper_daily/README.md)
+[Paper daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Paper_daily/README.md) ||
+[insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
+[writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md)
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/LuShuaie/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
