@@ -1,12 +1,6 @@
 
-## Welcome to LuShuai Pages
+## This is Test Pages
 
-Shuai Lu (陆帅)
-
-PHD \
-School of Medical Technology, Beijing Institute of Technology, Beijing 100081, China \
-**Email: lushuaie@163.com** \
-[BIT](index)
 ## scholar
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [Read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md) ||
