@@ -2,7 +2,7 @@
 
 电脑的双内存一定要安装在双通路上，不临近
 
-#### 2021/12/16
+### 2021/12/16
 [用torchvision训练一个SOTA的ResNet](https://zhuanlan.zhihu.com/p/436518994?utm_source=wechat_session&utm_medium=social&utm_oi=824054350027554816&utm_campaign=shareopn)
 
 [学生网络用知识蒸馏损失去逼近教师网络，如何提高学生网络的准确率？](https://www.zhihu.com/question/386173051/answer/2268710658?utm_source=wechat_session&utm_medium=social&utm_oi=824054350027554816&utm_content=group3_Answer&utm_campaign=shareopn)
