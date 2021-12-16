@@ -23,7 +23,7 @@
 - [ ] [两个小模型就能吊打大模型！北大校友、谷歌华人一作「模型集合」，CNN、Transformer都适用！](https://zhuanlan.zhihu.com/p/434798566?utm_source=wechat_session&utm_medium=social&utm_oi=824054350027554816&utm_campaign=shareopn)
 
 ### 2021/12/15
-- [] [实践教程 | 浅谈 PyTorch 中的 tensor 及使用](https://mp.weixin.qq.com/s/6Q6LrRwGmGZ7Qs72hVNE7A)
+- [x] [实践教程 | 浅谈 PyTorch 中的 tensor 及使用](https://mp.weixin.qq.com/s/6Q6LrRwGmGZ7Qs72hVNE7A)
 ```python
 tensor.to(device)
 tensor.detach()
