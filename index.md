@@ -14,7 +14,7 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Search Daily](Project/Search_daily/index)
 
 ## English learning
-
+[English learning](Project/English/index)
 
 ## Scholar
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
