@@ -2,6 +2,10 @@
 
 电脑的双内存一定要安装在双通路上，不临近
 
+
+### 2021/12/17
+- [ ] [Self-Attention和CNN的优雅集成！清华大学等提出ACmix，性能速度全面提升！](https://zhuanlan.zhihu.com/p/440510903?utm_source=wechat_session&utm_medium=social&utm_oi=672184783560380416)
+
 ### 2021/12/16
 - [ ] [用torchvision训练一个SOTA的ResNet](https://zhuanlan.zhihu.com/p/436518994?utm_source=wechat_session&utm_medium=social&utm_oi=824054350027554816&utm_campaign=shareopn)
 
