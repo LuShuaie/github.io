@@ -13,7 +13,7 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Home Paper_daily](Project/Paper_daily/index) ||
 [video daily](Project/videos_daily/index) ||
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
-[writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) ||
+[writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) 
 
 
 <!-- 
