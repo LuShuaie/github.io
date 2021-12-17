@@ -6,12 +6,15 @@ PHD \
 School of Medical Technology, Beijing Institute of Technology, Beijing 100081, China \
 **Email: lushuaie@163.com**
 
-## scholar
-[Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
+## Daily
 [Read daily](Project/meta_daily/index) ||
-[Paper daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Paper_daily/README.md) ||
-[Home Paper_daily](Project/Paper_daily/index) ||
-[video daily](Project/videos_daily/index) ||
+[Paper_daily](Project/Paper_daily/index) ||
+[Video daily](Project/videos_daily/index) ||
+[VALSE&MISC](Project/VALSE/index)
+
+
+## Scholar
+[Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
 [writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) 
 
