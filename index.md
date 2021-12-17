@@ -8,12 +8,13 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 
 ## scholar
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
-[Read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md) ||
+[Read daily](Project/meta_daily/index) ||
 [Paper daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Paper_daily/README.md) ||
+[Home Paper_daily](Project/Paper_daily/index) ||
 [video daily](Project/videos_daily/index) ||
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
 [writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) ||
-[Test mode](Project/index)
+
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/LuShuaie/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
