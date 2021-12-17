@@ -10,6 +10,7 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [Read daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Read_daily/READEME.md) ||
 [Paper daily](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Paper_daily/README.md) ||
+[video daily]() ||
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
 [writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) ||
 [Test mode](Project/index)
