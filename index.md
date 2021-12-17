@@ -7,10 +7,11 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 **Email: lushuaie@163.com**
 
 ## Daily
-[Read daily](Project/meta_daily/index) ||
-[Paper_daily](Project/Paper_daily/index) ||
-[Video daily](Project/videos_daily/index) ||
-[VALSE&MISC](Project/VALSE/index)
+[Read Daily](Project/meta_daily/index) ||
+[Paper Daily](Project/Paper_daily/index) ||
+[Video Daily](Project/videos_daily/index) ||
+[VALSE&MISC](Project/VALSE/index) ||
+[Search Daily](Project/Search_daily/index)
 
 
 ## Scholar
