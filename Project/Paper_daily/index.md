@@ -11,6 +11,12 @@ res2net and resnetxt
 
 ## Memory
 
+## Task Transformer Network for Joint MRI Reconstruction and Super-Resolution
+![](images/T2Net.png)
+
+Abstract. The core problem of Magnetic Resonance Imaging (MRI) is the trade o  between acceleration and image quality. Image reconstruction and super-resolution are two crucial techniques in Magnetic Resonance Imaging (MRI). Current methods are designed to perform these tasks separately, ignoring the correlations between them. In this work, we propose an end-to-end task transformer network (T2Net) for
+joint MRI reconstruction and super-resolution, which allows representations and feature transmission to be shared between multiple task to achieve higher-quality, super-resolved and motion-artifacts-free images from highly undersampled and degenerated MRI data. Our framework combines both reconstruction and super-resolution, divided into two sub-branches, whose features are expressed as queries and keys. Specically, we encourage joint feature learning between the two tasks, thereby transferring accurate task information. We  rst use two separate CNN branches to extract task-speci c features. Then, a task transformer module is designed to embed and synthesize the relevance between the two tasks. Experimental results show that our multi-task model significantly outperforms advanced sequential methods, both quantitatively and qualitatively.
+
 ## ResNeSt
 
 ## Aggregated Residual Transformations for Deep Neural Networks(ResNeXt)
