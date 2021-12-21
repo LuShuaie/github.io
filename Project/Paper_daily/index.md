@@ -11,6 +11,12 @@ res2net and resnetxt
 
 ## Memory
 
+***
+### Improved Transformer for High-Resolution GANs
+![](https://img-blog.csdnimg.cn/694d0d41ddc24b288a6b7371c58f0065.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
+![](https://img-blog.csdnimg.cn/31ba6cd87d984925bc1d89a009306db8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
+***
+
 ## Transformer in Transformer (TNT)
 ![](images/TNT.png)
 
