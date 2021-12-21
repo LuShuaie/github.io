@@ -2,7 +2,7 @@
 
 
 
-##  insights
+## insights
 
 Res2Net的想法是否可以推广至decoder，这种想法和transformer中的多头注意力机制非常相似。
 
@@ -10,6 +10,14 @@ res2net and resnetxt
 
 
 ## Memory
+
+## A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection
+
+![](images/STANet.png)
+
+Abstract: Remote sensing image change detection (CD) is done to identify desired significant changes between bitemporal images. Given two co-registered images taken at different times, the illumination variations and misregistration errors overwhelm the real object changes. Exploring the relationships among different spatial–temporal pixels may improve the performances of CD methods. In our work, we propose a novel Siamese-based spatial–temporal attention neural network. In contrast to previous methods that separately encode the bitemporal images without referring to any useful spatial–temporal dependency, we design a CD self-attention mechanism to model the spatial–temporal relationships. We integrate a new CD self-attention module in the procedure of feature extraction. Our self-attention module calculates the attention weights between any two pixels at different times and positions and uses them to generate more discriminative features. Considering that the object may have different scales, we partition the image into multi-scale subregions and introduce the self-attention in each subregion. In this way, we could capture spatial–temporal
+dependencies at various scales, thereby generating better representations to accommodate objects of various sizes. We also introduce a CD dataset LEVIR-CD, which is two orders of magnitude larger than other public datasets of this field. LEVIR-CD consists of a large set of bitemporal Google Earth images, with 637 image pairs (1024   1024) and over 31 k independently labeled change instances. Our proposed attention module improves the F1-score of our baseline model from 83.9 to 87.3 with acceptable computational overhead. Experimental results on a public remote sensing image CD dataset show our method outperforms several other state-of-the-art methods.
+
 
 ## Task Transformer Network for Joint MRI Reconstruction and Super-Resolution
 ![](images/T2Net.png)
