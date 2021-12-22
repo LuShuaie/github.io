@@ -2,7 +2,9 @@
 
 电脑的双内存一定要安装在双通路上，不临近
 
+
 ### 2021/12/22
+- [ ] [推荐!!CNN结构设计技巧-兼顾速度精度与工程实现](https://mp.weixin.qq.com/s/a3dwhUbNaRDhidDBZvdLMw)
 - [x] [PyTorch可复现/重复实验的相关设置](https://zhuanlan.zhihu.com/p/448284000)
 ```python
 # PyTorch
