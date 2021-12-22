@@ -2,6 +2,50 @@
 
 电脑的双内存一定要安装在双通路上，不临近
 
+### 2021/12/22
+- [x] [PyTorch可复现/重复实验的相关设置](https://zhuanlan.zhihu.com/p/448284000)
+```python
+# PyTorch
+import torch
+torch.manual_seed(0)
+
+# python
+import random
+random.seed(0)
+
+# Third part libraries
+import numpy as np
+np.random.seed(0)
+
+#GPU
+# 不需要benchmarking
+torch.backends.cudnn.benchmark=False
+
+# 选择确定性算法
+torch.use_deterministic_algorithms() 
+
+# 样本读取随机
+# 多线程情况下，设置每个线程读取的随机种子
+# 设置样本generator
+# 设置每个读取线程的随机种子
+def seed_worker(worker_id):
+    worker_seed = torch.initial_seed() % 2**32
+    numpy.random.seed(worker_seed)
+    random.seed(worker_seed)
+
+g = torch.Generator()
+# 设置样本shuffle随机种子，作为DataLoader的参数
+g.manual_seed(0)
+
+DataLoader(
+    train_dataset,
+    batch_size=batch_size,
+    num_workers=num_workers,
+    worker_init_fn=seed_worker,
+    generator=g,
+)
+
+```
 
 ### 2021/12/17
 - [ ] [Self-Attention和CNN的优雅集成！清华大学等提出ACmix，性能速度全面提升！](https://zhuanlan.zhihu.com/p/440510903?utm_source=wechat_session&utm_medium=social&utm_oi=672184783560380416)
