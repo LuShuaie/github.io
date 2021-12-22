@@ -9,9 +9,13 @@
 
 - res2net and resnetxt
 - CNN conv 和稍微大些的transformer相结合交替出现
+- Automated detection of kinks from blood vessels for optic cup segmentation in retinal images
 
 
 ## Memory
+
+***
+
 
 ***
 ### Improved Transformer for High-Resolution GANs
