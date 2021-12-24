@@ -11,7 +11,8 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Paper Daily](Project/Paper_daily/index) ||
 [Video Daily](Project/videos_daily/index) ||
 [VALSE&MISC](Project/VALSE/index) ||
-[Search Daily](Project/Search_daily/index)
+[Search Daily](Project/Search_daily/index) ||
+[coding](Project/coding/index)
 
 ## English learning
 [English learning](Project/English/index)
