@@ -19,7 +19,9 @@
 ## Memory
 
 ***
+### Deep High-Resolution Representation Learning for Visual Recognition
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/25b3d5db73b5476bad5cebab017448e9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ***
 ### Improved Transformer for High-Resolution GANs
