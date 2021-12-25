@@ -5,12 +5,12 @@
 
 ### 2021/12/23
 - [x] [Pytorch 数据流中常见Trick总结](https://zhuanlan.zhihu.com/p/441317369)
+  ```
+  解决如果__getitem不是对其的tensor怎么办？
+  DataLoader会自动合并__getitem__ 方法返回的字典内每个key内每个tensor，在tensor的第0维度新增一个batch大小的维度。如果该方法返回的每条样本长度不同无法拼接，batchsize>1就会报错。但是又一些任务在还没有确定后续的批样本对应的任务时，Dataset可能返回的字典里每个key可能就是长度不同的tensor，甚至是list，这时候需要使用collate_fn参数告诉DataLoader如何取样。我们可以定义自己的函数来准确地实现想要的功能。
 
-解决如果__getitem不是对其的tensor怎么办？
-DataLoader会自动合并__getitem__ 方法返回的字典内每个key内每个tensor，在tensor的第0维度新增一个batch大小的维度。如果该方法返回的每条样本长度不同无法拼接，batchsize>1就会报错。但是又一些任务在还没有确定后续的批样本对应的任务时，Dataset可能返回的字典里每个key可能就是长度不同的tensor，甚至是list，这时候需要使用collate_fn参数告诉DataLoader如何取样。我们可以定义自己的函数来准确地实现想要的功能。
-
-如果__getitem__方法返回的是tuple((list, list)) 可以使用
-
+  如果__getitem__方法返回的是tuple((list, list)) 可以使用
+  ```
 ### 2021/12/22
 - [ ] [推荐!!CNN结构设计技巧-兼顾速度精度与工程实现](https://mp.weixin.qq.com/s/a3dwhUbNaRDhidDBZvdLMw)
 - [x] [PyTorch可复现/重复实验的相关设置](https://zhuanlan.zhihu.com/p/448284000)
