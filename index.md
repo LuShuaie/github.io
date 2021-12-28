@@ -18,6 +18,11 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [English learning](Project/English/index)
 
 ## Scholar
+
+[Scholar](Project/Scholar/main/)
+
+***
+
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
 [writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) 
