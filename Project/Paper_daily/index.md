@@ -12,10 +12,12 @@
 - Automated detection of kinks from blood vessels for optic cup segmentation in retinal images
 - Vessel Bend-Based Cup Segmentation in Retinal Images
 
-## transformer papers
+## papers
 
-[transformer论文研读](https://blog.csdn.net/weixin_37707670/article/details/122072975)
-
+[transformer论文研读](https://blog.csdn.net/weixin_37707670/article/details/122072975) ||
+[分割研究论文](https://blog.csdn.net/weixin_37707670/article/details/122138745?spm=1001.2014.3001.5501) ||
+[分类研究论文](https://blog.csdn.net/weixin_37707670/article/details/122072420?spm=1001.2014.3001.5501) ||
+[医学研究论文](https://blog.csdn.net/weixin_37707670/article/details/122062425?spm=1001.2014.3001.5501) ||
 ## Memory
 
 ***
