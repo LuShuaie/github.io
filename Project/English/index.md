@@ -10,7 +10,23 @@ The strength is that DCNNs are able to learn richer representations than conven
 
 ### 外刊
 
+#### 2021/12/30
+“Get Back” provides both the standout moment and the title of a glorious new documentary by Peter Jackson, charting the days that the band spent together in January 1969, writing and recording songs for a new album.
 
+句子主干“Get Back” provides both…and… 后面Charting…现在分词作非谓语因与其逻辑主语documentary之间为主谓关系，that引导定语从句修饰the day，writing and recording…与其逻辑主语the band之间也是主谓关系，故用现在分词作非谓语。
+
+[经济学人双语精读 | 团队协作的“披头士”法则](https://mp.weixin.qq.com/s/7dPrysAcpMtVNs2w2nSSVQ)
+***
+#### 2021/12/29
+
+They will use tools in ways the toolmakers never thought possible,
+
+So it was always odd that the firm went to great lengths to stop customers fixing its products.
+
+Yet the likely impact of the “Self Service Repair” programme is unclear. 
+
+[经济学人双语精读 | 苹果售后政策重大调整](https://mp.weixin.qq.com/s/--PG2H21Wn2izeIxoGykIA)
+***
 #### 2021/12/28
 Few might have guessed that Guinea, a west African country of 13m people, played a big role in global commodity markets.
 
