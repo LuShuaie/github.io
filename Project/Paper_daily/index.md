@@ -21,11 +21,13 @@
 ## Memory
 
 ***
+
 ### Deep High-Resolution Representation Learning for Visual Recognition
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/25b3d5db73b5476bad5cebab017448e9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ***
+
 ### Improved Transformer for High-Resolution GANs
 ![](https://img-blog.csdnimg.cn/694d0d41ddc24b288a6b7371c58f0065.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![](https://img-blog.csdnimg.cn/31ba6cd87d984925bc1d89a009306db8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
@@ -36,11 +38,14 @@
 
 
 ***
+
 ### CS2-Net: Deep Learning Segmentation of Curvilinear Structures in Medical Imaging
 Automated detection of curvilinear structures, e.g., blood vessels or nerve fibres, from medical and biomedical images is a crucial early step in automatic image interpretation associated to the management of many diseases. Precise measurement of the morphological changes of these curvilinear organ structures informs clinicians for understanding the mechanism, diagnosis, and treatment of e.g. cardiovascular, kidney, eye, lung, and neurological conditions. In this work, we propose a generic and unified convolution neural network for the segmentation of curvilinear structures and illustrate in several 2D/3D medical imaging modalities. We introduce a new curvilinear structure segmentation network (CS2-Net), which includes a self-attention mechanism in the encoder and decoder to learn rich hierarchical representations of curvilinear structures. Two types of attention modules - spatial attention and channel attention - are utilized to enhance the inter-class discrimination and intra-class responsiveness, to further integrate local features with their global dependencies and normalization, adaptively. Furthermore, to facilitate the segmentation of curvilinear structures in medical images, we employ a 1×3 and a 3×1 convolutional kernel to capture boundary features. Besides, we extend the 2D attention mechanism to 3D to enhance the network’s ability to aggregate depth information across different layers/slices. The proposed curvilinear structure segmentation network is thoroughly validated using both 2D and 3D images across six different imaging modalities. Experimental results across nine datasets show the proposed method generally outperforms other state-of-the-art algorithms in various metrics.
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0219f389ed45478f919f9e46c8e70409.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
 
+
 ***
+
 ## A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection
 
 ![](images/STANet.png)

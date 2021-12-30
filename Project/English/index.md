@@ -16,7 +16,9 @@ The strength is that DCNNs are able to learn richer representations than conven
 句子主干“Get Back” provides both…and… 后面Charting…现在分词作非谓语因与其逻辑主语documentary之间为主谓关系，that引导定语从句修饰the day，writing and recording…与其逻辑主语the band之间也是主谓关系，故用现在分词作非谓语。
 
 [经济学人双语精读 | 团队协作的“披头士”法则](https://mp.weixin.qq.com/s/7dPrysAcpMtVNs2w2nSSVQ)
-***
+
+---
+
 #### 2021/12/29
 
 They will use tools in ways the toolmakers never thought possible,
@@ -26,7 +28,9 @@ So it was always odd that the firm went to great lengths to stop customers fixin
 Yet the likely impact of the “Self Service Repair” programme is unclear. 
 
 [经济学人双语精读 | 苹果售后政策重大调整](https://mp.weixin.qq.com/s/--PG2H21Wn2izeIxoGykIA)
-***
+
+---
+
 #### 2021/12/28
 Few might have guessed that Guinea, a west African country of 13m people, played a big role in global commodity markets.
 
@@ -47,7 +51,8 @@ This objective bumps up against others. One is the energy-consumption targets. A
 这一目标与中国政府的环保目标发生冲突。一是能源消耗目标。另一个是中国在 2017 年设定了铝产量上限，当时当局认为中国的铝产量过高。如果中国的工厂在接近临界值时开始限制生产，那么价格可能会上升，直到其他地方建立新的产能。  
 
 [经济学人双语精读 | 几内亚政变致使铝价飙升](https://mp.weixin.qq.com/s/WPdJRl73pXT-2AEWqJcObw)
-***
+
+---
 
 #### 2021/12/17 
   [经济学人双语精读 | 奥密克戎对世界经济的威胁](https://mp.weixin.qq.com/s/CgVIPhPKHwskimgdmh322Q)
