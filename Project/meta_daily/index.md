@@ -4,6 +4,9 @@
 
 
 ### 2021/12/30
+- [ ] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
+
+### 2021/12/29
 - [x] [pytorch优化器与学习率设置详解](https://mp.weixin.qq.com/s/nz4RdxdG8d8lCJl-hEu6TA)
   ```python
   optimizer = torch.optim.SGD(model.parameters(), lr=0.1, momentum=0.9)
