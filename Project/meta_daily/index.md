@@ -3,6 +3,18 @@
 电脑的双内存一定要安装在双通路上，不临近
 
 
+### 2021/12/30
+- [x] [pytorch优化器与学习率设置详解](https://mp.weixin.qq.com/s/nz4RdxdG8d8lCJl-hEu6TA)
+  ```python
+  optimizer = torch.optim.SGD(model.parameters(), lr=0.1, momentum=0.9)
+  scheduler = ReduceLROnPlateau(optimizer, 'min')
+  for epoch in range(10):
+      train(...)
+      val_loss = validate(...)
+      # Note that step should be called after validate()
+      scheduler.step(val_loss)
+  ```
+
 ### 2021/12/23
 - [x] [Pytorch 数据流中常见Trick总结](https://zhuanlan.zhihu.com/p/441317369)
   ```
