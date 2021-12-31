@@ -1,8 +1,15 @@
-# This is index test Pages
-
-电脑的双内存一定要安装在双通路上，不临近
+# Penny and penny laid up will be many
 
 
+### 精选
+
+
+- [x] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
+- [ ] [GitHub 7.5k star量，各种视觉Transformer的PyTorch实现合集整理好了](https://mp.weixin.qq.com/s/aZwmaY8AjdaomETmMfpy2g)
+  
+---
+
+### 每日学习
 ### 2021/12/30
 - [ ] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
 
