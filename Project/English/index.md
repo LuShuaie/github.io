@@ -10,6 +10,30 @@ The strength is that DCNNs are able to learn richer representations than conven
 
 ### 外刊
 
+### 2021/12/31
+
+1,be forced to do sth 被迫做某事
+
+2,domestic vacation destination 国内度假胜地
+
+我们再来看看rival 的用法，rival 做名词表示 竞争对手比如
+
+She has no rivals as a female rock singer.
+
+她作为摇滚女歌手，没人可以与她匹敌。
+
+have no rival 无以匹敌
+
+此外，rival 经常可以做动词表示 比得上，是个及物动词。rival sth in sth 可以翻译成在...方面，与...相媲美。如果我们说 星巴克咖啡是最棒的，可以说
+
+Starbucks coffee is the best. 或
+
+No coffee can rival Starbucks.
+
+[外刊地道表达积累|17](https://mp.weixin.qq.com/s/Xt-E2T87vO_6U1shG4qEkA)
+
+---
+
 #### 2021/12/30
 “Get Back” provides both the standout moment and the title of a glorious new documentary by Peter Jackson, charting the days that the band spent together in January 1969, writing and recording songs for a new album.
 
