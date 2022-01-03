@@ -16,7 +16,7 @@
 
 6、背单词的同时，结合单词的用法
 
-
+---
 
 ## writing
 consist of
@@ -25,6 +25,7 @@ with
 
 The strength is that DCNNs are able to learn richer representations than conventional hand-crafted representation
 
+---
 
 ### 外刊
 
