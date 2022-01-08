@@ -31,7 +31,7 @@ The strength is that DCNNs are able to learn richer representations than conven
 
 ### 2022/1/6
 
-[经济学人双语精读 支票与失衡]([经济学人双语精读 | 支票与失衡 (qq.com)](https://mp.weixin.qq.com/s/Zs1ha-L5XzT9Pak7hUrGhA))
+[经济学人双语精读支票与失衡](https://mp.weixin.qq.com/s/Zs1ha-L5XzT9Pak7hUrGhA)
 
 
 
