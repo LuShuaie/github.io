@@ -10,6 +10,19 @@
 ---
 
 ### 每日学习
+
+### 2022/1/11
+
+- [ ] [知识蒸馏综述：代码整理](https://zhuanlan.zhihu.com/p/444664308)
+
+### 2022/1/9
+
+- [x] [PyTorch dataset随机值的完美实践]([PyTorch dataset随机值的完美实践 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/377155682))  
+
+### 2022/1/8
+
+- [ ] [聊聊Pytorch中的dataloader](https://zhuanlan.zhihu.com/p/117270644)
+
 ### 2021/12/30
 - [ ] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
 
@@ -30,7 +43,7 @@
   ```
   解决如果__getitem不是对其的tensor怎么办？
   DataLoader会自动合并__getitem__ 方法返回的字典内每个key内每个tensor，在tensor的第0维度新增一个batch大小的维度。如果该方法返回的每条样本长度不同无法拼接，batchsize>1就会报错。但是又一些任务在还没有确定后续的批样本对应的任务时，Dataset可能返回的字典里每个key可能就是长度不同的tensor，甚至是list，这时候需要使用collate_fn参数告诉DataLoader如何取样。我们可以定义自己的函数来准确地实现想要的功能。
-
+  
   如果__getitem__方法返回的是tuple((list, list)) 可以使用
   ```
 ### 2021/12/22
@@ -41,22 +54,22 @@
     # PyTorch
     import torch
     torch.manual_seed(0)
-
+    
     # python
     import random
     random.seed(0)
-
+    
     # Third part libraries
     import numpy as np
     np.random.seed(0)
-
+    
     #GPU
     # 不需要benchmarking
     torch.backends.cudnn.benchmark=False
-
+    
     # 选择确定性算法
     torch.use_deterministic_algorithms() 
-
+    
     # 样本读取随机
     # 多线程情况下，设置每个线程读取的随机种子
     # 设置样本generator
@@ -65,11 +78,11 @@
         worker_seed = torch.initial_seed() % 2**32
         numpy.random.seed(worker_seed)
         random.seed(worker_seed)
-
+    
     g = torch.Generator()
     # 设置样本shuffle随机种子，作为DataLoader的参数
     g.manual_seed(0)
-
+    
     DataLoader(
         train_dataset,
         batch_size=batch_size,
@@ -77,7 +90,7 @@
         worker_init_fn=seed_worker,
         generator=g,
     )
-
+    
     ```
 
 ### 2021/12/17
