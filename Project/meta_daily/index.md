@@ -11,6 +11,12 @@
 
 ### 每日学习
 
+
+
+### 2020/1/12
+
+- [ ] [一文解决样本不均衡](https://mp.weixin.qq.com/s/ZRpph2VoL6llpkvj6yWewQ)
+
 ### 2022/1/11
 
 - [ ] [知识蒸馏综述：代码整理](https://zhuanlan.zhihu.com/p/444664308)
