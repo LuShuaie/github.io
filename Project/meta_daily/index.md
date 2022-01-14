@@ -11,7 +11,9 @@
 
 ### 每日学习
 
+### 2020/1/14
 
+- [x] [【他山之石】PyTorch可复现/重复实验的相关设置 ](https://mp.weixin.qq.com/s/xqe-a0-vOVfH-8u_y4CZVA)
 
 ### 2020/1/12
 
