@@ -18,7 +18,16 @@
 [分割研究论文](https://blog.csdn.net/weixin_37707670/article/details/122138745?spm=1001.2014.3001.5501) ||
 [分类研究论文](https://blog.csdn.net/weixin_37707670/article/details/122072420?spm=1001.2014.3001.5501) ||
 [医学研究论文](https://blog.csdn.net/weixin_37707670/article/details/122062425?spm=1001.2014.3001.5501) || [异常检测论文]([(77条消息) 异常检测论文更新推荐_一知半解百晓生的博客-CSDN博客](https://blog.csdn.net/weixin_37707670/article/details/122384739?spm=1001.2014.3001.5501))
+
 ## Memory
+
+### NAM: Normalization-based Attention Module
+
+<img src="https://img-blog.csdnimg.cn/6848f1514ef84f0a8f0199f200c634c0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_19,color_FFFFFF,t_70,g_se,x_16" style="zoom:67%;" />
+
+***
+
+
 
 ### CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows
 
