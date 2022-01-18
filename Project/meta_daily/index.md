@@ -11,11 +11,15 @@
 
 ### 每日学习
 
-### 2020/1/14
+### 2022/1/19
+
+- [x] [NAM: Normalization-based Attention Module，一种新的注意力计算方式，无需额外的参数](https://mp.weixin.qq.com/s/MTtTWOIN5G_4ZwMUbSqitg))
+
+### 2022/1/14
 
 - [x] [【他山之石】PyTorch可复现/重复实验的相关设置 ](https://mp.weixin.qq.com/s/xqe-a0-vOVfH-8u_y4CZVA)
 
-### 2020/1/12
+### 2022/1/12
 
 - [ ] [一文解决样本不均衡](https://mp.weixin.qq.com/s/ZRpph2VoL6llpkvj6yWewQ)
 
