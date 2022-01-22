@@ -21,6 +21,15 @@
 
 ## Memory
 
+## Conformer: Local Features Coupling Global Representations for Visual Recognition
+
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/1353d0d0b7424fc49f2cbedcb698acbc.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+
+
+
+
 ### NAM: Normalization-based Attention Module
 
 <img src="https://img-blog.csdnimg.cn/6848f1514ef84f0a8f0199f200c634c0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_19,color_FFFFFF,t_70,g_se,x_16" style="zoom:67%;" />
