@@ -6,10 +6,19 @@
 
 [科学写作与哲学](https://zhuanlan.zhihu.com/p/433168083)
 
+### 个人科研心得板块
 
+[个人感悟](myreview/index)
 
-
+---
 
 ### 会议推荐
 
 [计算机顶会论文投稿指南](https://bbs.cvmart.net/articles/5959)
+
+
+
+### 期刊会议总结
+
+[会议期刊总结](paper_submit/index)
+
