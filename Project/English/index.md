@@ -29,6 +29,17 @@ The strength is that DCNNs are able to learn richer representations than conven
 
 ### 外刊
 
+### 2022/2/15
+
+[ 纽约时报冬奥 “顶流” 冰墩墩，可谓 “一墩难求](https://mp.weixin.qq.com/s/R2xfWR6i_lB0yCeh4x1Ouw)
+
+### 2022/1/9
+
+You are the average of the five people you spend the most time with.
+与你相处时间最长的5个人代表着你的水平。
+
+
+
 ### 2022/1/6
 
 [经济学人双语精读支票与失衡](https://mp.weixin.qq.com/s/Zs1ha-L5XzT9Pak7hUrGhA)
