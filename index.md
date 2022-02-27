@@ -1,7 +1,6 @@
 ## Welcome to LuShuai Pages
 
 Shuai Lu (陆帅)
-<img src="photo.png" alt="输入图片描述" style="zoom: 50%;" />
 
 PHD \
 School of Medical Technology, Beijing Institute of Technology, Beijing 100081, China \
@@ -27,6 +26,8 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Scholar](https://github.com/LuShuaie/OpenCV/blob/main/README.md) ||
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
 [writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) 
+
+<img src="photo.png" alt="输入图片描述" style="zoom: 50%;" />
 
 
 <!-- 
