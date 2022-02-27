@@ -2,6 +2,7 @@
 
 
 ### 精选
+- [x] [新的一年，越活越好的6个习惯](https://mp.weixin.qq.com/s/0rGKDBNdQFJ35R1Aya7y9A)
 - [x] [10个开源工业检测数据集汇总](https://mp.weixin.qq.com/s/aV4eZk5hYwrBPsf0y_xS0w)
 - [ ] [如何解决工业缺陷检测小样本问题？](https://mp.weixin.qq.com/s/CB-SIFq-5_Q0Lf0o54bgwQ)
 
@@ -11,6 +12,8 @@
 ---
 
 ### 每日学习
+### 2022/2/27
+- [x] [算法工程师在岗3年小结！](https://mp.weixin.qq.com/s/xQ52-svSeT70HXtaT9jadQ)
 
 ### 2022/1/19
 
