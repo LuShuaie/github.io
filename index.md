@@ -1,6 +1,7 @@
 ## Welcome to LuShuai Pages
 
 Shuai Lu (陆帅)
+<img src="photo.png" alt="输入图片描述" style="zoom: 50%;" />
 
 PHD \
 School of Medical Technology, Beijing Institute of Technology, Beijing 100081, China \
