@@ -5,14 +5,20 @@
 - [x] [新的一年，越活越好的6个习惯](https://mp.weixin.qq.com/s/0rGKDBNdQFJ35R1Aya7y9A)
 - [x] [10个开源工业检测数据集汇总](https://mp.weixin.qq.com/s/aV4eZk5hYwrBPsf0y_xS0w)
 - [ ] [如何解决工业缺陷检测小样本问题？](https://mp.weixin.qq.com/s/CB-SIFq-5_Q0Lf0o54bgwQ)
-
 - [x] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
 - [ ] [GitHub 7.5k star量，各种视觉Transformer的PyTorch实现合集整理好了](https://mp.weixin.qq.com/s/aZwmaY8AjdaomETmMfpy2g)
-  
+- [x] [当代研究生应当掌握的5种Pytorch并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/YwvO_5y67ZxYiR_-BlrNOg)
 ---
 
 ### 每日学习
+### 2022/3/1
+
+- [x] [当代研究生应当掌握的5种Pytorch并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/YwvO_5y67ZxYiR_-BlrNOg)
+
+
+
 ### 2022/2/27
+
 - [x] [算法工程师在岗3年小结！](https://mp.weixin.qq.com/s/xQ52-svSeT70HXtaT9jadQ)
 
 ### 2022/1/19
