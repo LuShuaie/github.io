@@ -7,7 +7,8 @@
 - [ ] [如何解决工业缺陷检测小样本问题？](https://mp.weixin.qq.com/s/CB-SIFq-5_Q0Lf0o54bgwQ)
 - [x] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
 - [ ] [GitHub 7.5k star量，各种视觉Transformer的PyTorch实现合集整理好了](https://mp.weixin.qq.com/s/aZwmaY8AjdaomETmMfpy2g)
-- [x] [当代研究生应当掌握的5种Pytorch并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/YwvO_5y67ZxYiR_-BlrNOg)
+- [x] [当代研究生应当掌握的5种Pytorch并行训练方法-单机多卡](https://mp.weixin.qq.com/s/YwvO_5y67ZxYiR_-BlrNOg)
+- [ ] [深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
 ---
 
 ### 每日学习
