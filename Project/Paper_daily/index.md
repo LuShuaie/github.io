@@ -21,6 +21,18 @@
 
 ## Memory
 
+
+
+
+
+## Object-Contextual Representations for Semantic Segmentation
+
+
+
+![OCRNet](https://img-blog.csdnimg.cn/2bda7310ea874c728a71252c572352ac.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+
+
 ## Conformer: Local Features Coupling Global Representations for Visual Recognition
 
 
