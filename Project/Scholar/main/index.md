@@ -11,6 +11,12 @@
 [个人感悟](myreview/index)
 
 ---
+### 论文写作板块
+[introduction写作](https://mp.weixin.qq.com/s/pdrKll2ro84Vr6UdO9uYlQ)
+
+
+[如何以初学者角度写好一篇国际学术论文？](https://mp.weixin.qq.com/s/sjEXXiAKcAH4dvzbXttvdw)
+---
 
 ### 会议推荐
 
