@@ -16,6 +16,12 @@
 
 
 [如何以初学者角度写好一篇国际学术论文？](https://mp.weixin.qq.com/s/sjEXXiAKcAH4dvzbXttvdw)
+[学术论文怎么写](https://mp.weixin.qq.com/s/yGjl19pNJ-CgaPErTUQl9w)
+
+[养成写作的十大好习惯](https://mp.weixin.qq.com/s/sSSp0cjUsK4VSTebKofF_w)
+
+[论文写作中注意这些细节，能显著提升成稿质量](https://mp.weixin.qq.com/s/QoZbJxeRcrqZC6rV06zmRg)
+
 
 ---
 
