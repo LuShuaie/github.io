@@ -34,11 +34,21 @@ Transformer based vision backbones Most related to our work is the Vision Transf
 
 ## Memory
 
+### Channelized Axial Attention – Considering Channel Relation within Spatial Attention for Semantic Segmentation
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c3e131e3e1b34cbfb468740563463e9d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_8,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/d8ac0412669f4ac0912a1c027486fd97.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_17,color_FFFFFF,t_70,g_se,x_16)
 
 
 
+### ON THE CONNECTION BETWEEN LOCAL ATTENTION AND DYNAMIC DEPTH-WISE CONVOLUTION
+局部attention和动态卷积
+![DEPTH-WISE CONVOLUTION](https://img-blog.csdnimg.cn/f31f4f82907c47cbab24822e907ed4d2.png)
 
-## Object-Contextual Representations for Semantic Segmentation
+### CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image
+![CVF-SID](https://img-blog.csdnimg.cn/f38c4609063d4b1bb0abe98f6fc3045d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_17,color_FFFFFF,t_70,g_se,x_16)
+
+
+### Object-Contextual Representations for Semantic Segmentation
 
 
 
@@ -46,7 +56,7 @@ Transformer based vision backbones Most related to our work is the Vision Transf
 
 
 
-## Conformer: Local Features Coupling Global Representations for Visual Recognition
+### Conformer: Local Features Coupling Global Representations for Visual Recognition
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1353d0d0b7424fc49f2cbedcb698acbc.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5LiA55-l5Y2K6Kej55m-5pmT55Sf,size_20,color_FFFFFF,t_70,g_se,x_16)
