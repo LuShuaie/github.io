@@ -17,9 +17,13 @@
 - [ ] 深度学习框架PyTorch常用代码段](https://mp.weixin.qq.com/s/4breleAhCh6_9tvMK3WDaw)
 
   
----
+
 
 ### 每日学习
+
+### 2022/5/3
+- [ ] [语义分割的三点奇技淫巧](https://mp.weixin.qq.com/s/ikLaDs1EI2vJOWtNspr94Q)
+
 ### 2022/3/1
 
 - [x] [当代研究生应当掌握的5种Pytorch并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/YwvO_5y67ZxYiR_-BlrNOg)
