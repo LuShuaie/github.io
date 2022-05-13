@@ -10,6 +10,8 @@
 
 [科学写作与哲学](https://zhuanlan.zhihu.com/p/433168083)
 
+[清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g)
+
 ### 个人科研心得板块
 
 [个人感悟](myreview/index)
@@ -28,6 +30,12 @@
 
 
 ---
+
+### 投稿注意事项板块
+
+[计算机视觉论文投稿到接收，不可不知的关键环节](https://mp.weixin.qq.com/s/_1eNCOtPiUXNkzuvMG_xbA)
+
+
 
 ### 会议推荐
 
