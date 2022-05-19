@@ -19,6 +19,8 @@
 ---
 
 ## writing
+[审了200篇中式英语论文，你应该这样写......](https://mp.weixin.qq.com/s/teDmvM9DuqNyjjlwwhuKug)
+
 consist of
 
 with
