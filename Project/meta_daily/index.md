@@ -1,7 +1,9 @@
 # Penny and penny laid up will be many
 
+[ANOMALY DETECTION](anomalyDetection/index)
 
 ### 精选
+
 - [x] [新的一年，越活越好的6个习惯](https://mp.weixin.qq.com/s/0rGKDBNdQFJ35R1Aya7y9A)
 
 - [x] [10个开源工业检测数据集汇总](https://mp.weixin.qq.com/s/aV4eZk5hYwrBPsf0y_xS0w)
