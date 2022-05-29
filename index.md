@@ -25,7 +25,7 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Scholar](Project/Scholar/main/)
 
 ---
-[PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/) | [web of science](https://www.webofscience.com/wos) | [ LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=&firstletter=) | [google scholar](scholar.google.com)
+[PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/) | [web of science](https://www.webofscience.com/wos) | [ LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=&firstletter=) | [Google 学术搜索](https://scholar.google.com/)
 
 [Inoreader-rss](https://www.innoreader.com/)
 
