@@ -27,6 +27,10 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 ---
 [PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/) | [web of science](https://www.webofscience.com/wos)  | [Google 学术搜索](https://scholar.google.com/) | [Scopus - 文献搜索](https://www.scopus.com/search/form.uri?display=basic#basic) | [ LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=&firstletter=) 
 
+---
+[Journal / Author Name Estimator生物医学](https://jane.biosemantics.org/) | [Elsevier® JournalFinder](https://journalfinder.elsevier.com/) | [Springer Journal Suggester](https://journalsuggester.springer.com/) | [Scimago Journal & Country Rank SJR期刊评价分析](https://www.scimagojr.com/)
+
+---
 [Inoreader-rss](https://www.innoreader.com/)
 
 ***
