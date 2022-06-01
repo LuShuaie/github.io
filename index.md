@@ -32,7 +32,10 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [ LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=&firstletter=) | [Journal / Author Name Estimator生物医学](https://jane.biosemantics.org/) | [Elsevier® JournalFinder](https://journalfinder.elsevier.com/) | [Springer Journal Suggester](https://journalsuggester.springer.com/) | [Scimago Journal & Country Rank SJR期刊评价分析](https://www.scimagojr.com/)
 
 ---
-[Inoreader-rss](https://www.innoreader.com/)
+## task
+[Inoreader-rss](https://www.innoreader.com/)  \
+[taskboard](Project/taskboard)
+
 
 ***
 
@@ -40,7 +43,7 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [insight & idea](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Scientific_Summary/README.md) ||
 [writing](https://github.com/LuShuaie/OpenCV/blob/main/PHD_proposal/Writing_summary/README.md) 
 
-<img src="photo.png" alt="输入图片描述" style="zoom: 50%;" />
+<img src="photo.png" alt="个人照片" style="zoom: 50%;" />
 
 
 <!-- 

@@ -1,7 +1,7 @@
 # Scholar
 
 ### 科研心得板块
-
+[作为审稿人，你什么情况下会选择拒稿？](https://mp.weixin.qq.com/s/1ILaALdu_C8-lgY5RbL65g)
 [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ)
 
 [清华大学刘知远教授：如何写一篇合格的NLP论文](https://mp.weixin.qq.com/s/X48Cm58eub_sULlLRk-VIA)
