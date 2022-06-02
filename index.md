@@ -34,9 +34,9 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 
 ---
 
- ## Connected Papers
-[Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/)
-
+## Connected Papers
+[Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/) \
+[ResearchRabbit](https://www.researchrabbit.ai/)
 
 ---
 ## task
