@@ -23,6 +23,9 @@
 
 ### 每日学习
 
+###  2022/6/3
+- [ ] [从VAE到扩散模型：一文解读以文生图新范式 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/519415802?utm_source=wechat_session&utm_medium=social&utm_oi=824054350027554816&utm_campaign=shareopn)
+
 ### 2022/5/3
 - [ ] [语义分割的三点奇技淫巧](https://mp.weixin.qq.com/s/ikLaDs1EI2vJOWtNspr94Q)
 
