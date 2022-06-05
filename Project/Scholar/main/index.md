@@ -1,4 +1,6 @@
 # Scholar
+### 基金申请
+[评审完26个国自然基金项目，发现2大突出问题 (qq.com)](https://mp.weixin.qq.com/s/lQHl4VSBsIZkZeHKE5XhZQ)
 
 ### 科研心得板块
 [作为审稿人，你什么情况下会选择拒稿？](https://mp.weixin.qq.com/s/1ILaALdu_C8-lgY5RbL65g)
