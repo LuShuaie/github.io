@@ -4,7 +4,7 @@
 [胡晓峰：浅谈科研课题中的“科学问题” (qq.com)](https://mp.weixin.qq.com/s/4mSi3CBDwBUsVittF52MiQ)
 
 ### 科研心得板块
-[作为审稿人，你什么情况下会选择拒稿？](https://mp.weixin.qq.com/s/1ILaALdu_C8-lgY5RbL65g)
+[作为审稿人，你什么情况下会选择拒稿？](https://mp.weixin.qq.com/s/1ILaALdu_C8-lgY5RbL65g) \
 [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ)
 
 [清华大学刘知远教授：如何写一篇合格的NLP论文](https://mp.weixin.qq.com/s/X48Cm58eub_sULlLRk-VIA)
@@ -24,7 +24,7 @@
 [introduction写作](https://mp.weixin.qq.com/s/pdrKll2ro84Vr6UdO9uYlQ)
 
 
-[如何以初学者角度写好一篇国际学术论文？](https://mp.weixin.qq.com/s/sjEXXiAKcAH4dvzbXttvdw)
+[如何以初学者角度写好一篇国际学术论文？](https://mp.weixin.qq.com/s/sjEXXiAKcAH4dvzbXttvdw) \
 [学术论文怎么写](https://mp.weixin.qq.com/s/yGjl19pNJ-CgaPErTUQl9w)
 
 [养成写作的十大好习惯](https://mp.weixin.qq.com/s/sSSp0cjUsK4VSTebKofF_w)
