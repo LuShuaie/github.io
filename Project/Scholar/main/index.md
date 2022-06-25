@@ -52,3 +52,6 @@
 
 [会议期刊总结](paper_submit/index)
 
+### 如何写审稿意见和回复
+[审稿意见的正确解读与回复方式，详解+范例 (qq.com)](https://mp.weixin.qq.com/s/VwimUQ2vHWjNSIbUA071Zw) \
+[如何回复审稿人意见？（附回信模版） (qq.com)](https://mp.weixin.qq.com/s/aL8cAJj4knPVl7TgC76BDQ)
