@@ -54,4 +54,10 @@
 
 ### 如何写审稿意见和回复
 [审稿意见的正确解读与回复方式，详解+范例 (qq.com)](https://mp.weixin.qq.com/s/VwimUQ2vHWjNSIbUA071Zw) \
-[如何回复审稿人意见？（附回信模版） (qq.com)](https://mp.weixin.qq.com/s/aL8cAJj4knPVl7TgC76BDQ)
+[如何回复审稿人意见？（附回信模版） (qq.com)](https://mp.weixin.qq.com/s/aL8cAJj4knPVl7TgC76BDQ) \
+[知网技巧 回复模板来了](https://mp.weixin.qq.com/s/1euEstmkHAwBuJmkujMJXw) \
+[SCI审稿意见回复模板来了！](https://mp.weixin.qq.com/s/hIMepciwcZHP4Ze7NMDSMQ) \
+[如何回复审稿人意见？附回信模版](https://mp.weixin.qq.com/s/aL8cAJj4knPVl7TgC76BDQ) \
+[附常用回复模版、句式](https://mp.weixin.qq.com/s/RiwXDH5l5uclggB6-bH-5g) \
+[史上最全的审稿意见回复模板](https://mp.weixin.qq.com/s/_lY8j6RVGShdYkxMbLhGKA) \
+[5步法有效回复论文审稿意见](https://mp.weixin.qq.com/s/9mwndZX0f0Hf6mPtPzwfMw)
