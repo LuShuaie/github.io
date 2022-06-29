@@ -1,3 +1,7 @@
+# 精华
+[论文投稿前可开展的5项自评工作 (qq.com)](https://mp.weixin.qq.com/s/e__Uc6hiq3dzpexPE_nMfA) 
+[论文与写作公众号](special_information/index)
+
 # Scholar
 ### 基金申请
 [评审完26个国自然基金项目，发现2大突出问题 (qq.com)](https://mp.weixin.qq.com/s/lQHl4VSBsIZkZeHKE5XhZQ) \
@@ -23,8 +27,9 @@
 
 ---
 ### 论文写作板块
-[introduction写作](https://mp.weixin.qq.com/s/pdrKll2ro84Vr6UdO9uYlQ)
 
+
+[introduction写作](https://mp.weixin.qq.com/s/pdrKll2ro84Vr6UdO9uYlQ)
 
 [如何以初学者角度写好一篇国际学术论文？](https://mp.weixin.qq.com/s/sjEXXiAKcAH4dvzbXttvdw) \
 [学术论文怎么写](https://mp.weixin.qq.com/s/yGjl19pNJ-CgaPErTUQl9w)
