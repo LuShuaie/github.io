@@ -1,5 +1,5 @@
 # 精华
-[论文投稿前可开展的5项自评工作 (qq.com)](https://mp.weixin.qq.com/s/e__Uc6hiq3dzpexPE_nMfA) 
+[论文投稿前可开展的5项自评工作 (qq.com)](https://mp.weixin.qq.com/s/e__Uc6hiq3dzpexPE_nMfA) \
 [论文与写作公众号](special_information/index)
 
 # Scholar
