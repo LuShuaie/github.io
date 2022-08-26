@@ -44,6 +44,16 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Inoreader-rss](https://www.innoreader.com/)  \
 [taskboard](Project/taskboard)
 
+## paper search
+1. paper with code
+2. google
+3. stork
+
+##  video search
+1. valse
+2. misc
+
+
 
 ***
 
