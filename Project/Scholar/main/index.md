@@ -37,7 +37,7 @@
 [养成写作的十大好习惯](https://mp.weixin.qq.com/s/sSSp0cjUsK4VSTebKofF_w)
 
 [论文写作中注意这些细节，能显著提升成稿质量](https://mp.weixin.qq.com/s/QoZbJxeRcrqZC6rV06zmRg) \
-[发顶会顶刊论文，你应该这样写作!](https://mp.weixin.qq.com/s/WsY3aOrrG5bU6K20MrmWmw)
+[投稿前必查](https://mp.weixin.qq.com/s/WsY3aOrrG5bU6K20MrmWmw)
 
 ---
 
