@@ -4,6 +4,7 @@ Shuai Lu (陆帅)
 
 PHD \
 School of Medical Technology, Beijing Institute of Technology, Beijing 100081, China \
+北京理工大学 \
 **Email: lushuaie@163.com**
 
 
@@ -26,11 +27,11 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 
 ---
 
-[PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/) | [web of science](https://www.webofscience.com/wos)  | [Google 学术搜索](https://scholar.google.com/) | [Scopus - 文献搜索](https://www.scopus.com/search/form.uri?display=basic#basic) | [中国知网 (cnki.net)](https://www.cnki.net/) | [文献鸟Stork)](https://www.storkapp.me/)
+[Medreading](https://www.medreading.cn/pubmed_zh?t=1658648049487) | [PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/) | [web of science](https://www.webofscience.com/wos)  | [Google 学术搜索](https://scholar.google.com/) | [Scopus - 文献搜索](https://www.scopus.com/search/form.uri?display=basic#basic) | [中国知网 (cnki.net)](https://www.cnki.net/) | [文献鸟Stork)](https://www.storkapp.me/)
 
 
 ---
-[ LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=&firstletter=) | [Journal / Author Name Estimator生物医学](https://jane.biosemantics.org/) | [Elsevier® JournalFinder](https://journalfinder.elsevier.com/) | [Springer Journal Suggester](https://journalsuggester.springer.com/) | [Scimago Journal & Country Rank SJR期刊评价分析](https://www.scimagojr.com/)
+[ LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=&firstletter=) | [Journal / Author Name Estimator生物医学](https://jane.biosemantics.org/) | [Elsevier® JournalFinder](https://journalfinder.elsevier.com/) | [Springer Journal Suggester](https://journalsuggester.springer.com/) | [Scimago Journal & Country Rank SJR期刊评价分析](https://www.scimagojr.com/) | [endnote journal recommend](https://www.myendnoteweb.com/)
 
 ---
 
@@ -42,6 +43,16 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 ## task
 [Inoreader-rss](https://www.innoreader.com/)  \
 [taskboard](Project/taskboard)
+
+## paper search
+1. paper with code
+2. google
+3. stork
+
+##  video search
+1. valse
+2. misc
+
 
 
 ***
