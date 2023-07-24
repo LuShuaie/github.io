@@ -7,7 +7,7 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 北京理工大学 \
 **Email: lushuaie@163.com**
 
-[website](https://gitcode.net/weixin_37707670)
+[gitcode](https://gitcode.net/weixin_37707670)
 
 
 ## Daily
