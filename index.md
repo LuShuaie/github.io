@@ -16,8 +16,8 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 4. stork
 
 ## video search
-1. valse
-2. misc
+1. [VALSE_Webinar](https://space.bilibili.com/562085182)
+2. [MICS_China](https://space.bilibili.com/269362804)
 
 ## Daily
 [Read Daily](Project/meta_daily/index) ||
