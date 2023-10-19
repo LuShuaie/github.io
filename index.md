@@ -9,6 +9,16 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [gitcode](https://gitcode.net/weixin_37707670)
 
 
+## paper search
+1. [Paper with Code](https://paperswithcode.com/)
+2. [timm](https://github.com/huggingface/pytorch-image-models)
+3. [Google scholar](scholar.google.com)
+4. stork
+
+## video search
+1. valse
+2. misc
+
 ## Daily
 [Read Daily](Project/meta_daily/index) ||
 [Paper Daily](Project/Paper_daily/index) ||
@@ -46,14 +56,6 @@ School of Medical Technology, Beijing Institute of Technology, Beijing 100081, C
 [Inoreader-rss](https://www.innoreader.com/)  \
 [taskboard](Project/taskboard)
 
-## paper search
-1. paper with code
-2. google
-3. stork
-
-##  video search
-1. valse
-2. misc
 
 
 
